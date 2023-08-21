@@ -71,7 +71,8 @@ export default class Contact extends Component {
                                                     </div>
                                                     <div className="app-contact-desc text-muted pt-1">
                                                         <p className="mb-0 info-title f-13">Telefone :</p>
-                                                        <p className="mb-0 f-13">012-345-6789</p>
+                                                        <p className="mb-0 f-13"><a target='_blank' href="https://wa.me/55119194424759?text=Desejo+saber+mais+sobre+sites" className="text-muted">+55 (11) 91944-24759</a>
+                                                        </p>
                                                     </div>
                                                 </div>
 
@@ -81,7 +82,7 @@ export default class Contact extends Component {
                                                     </div>
                                                     <div className="app-contact-desc text-muted pt-1">
                                                         <p className="mb-0 info-title f-13">Email :</p>
-                                                        <p className="mb-0 f-13"><Link to="" className="text-muted">youremailid@gmail.com</Link>
+                                                        <p className="mb-0 f-13"><a target='_blank' href="mailto:danielsousa@leadqualify.com.br" className="text-muted">danielsousa@leadqualify.com.br</a>
                                                         </p>
                                                     </div>
                                                 </div>
@@ -92,23 +93,22 @@ export default class Contact extends Component {
                                                     </div>
                                                     <div className="app-contact-desc text-muted pt-1">
                                                         <p className="mb-0 info-title f-13">Localização :</p>
-                                                        <p className="mb-0 f-13"><Link to="" className="text-muted">3179 Raccoon Run Seattle,
-                                                    WA 98109</Link></p>
+                                                        <p className="mb-0 f-13"><a to="" className="text-muted">Salvador, Bahia, Brasil</a></p>
                                                     </div>
                                                 </div>
 
                                                 <div style={{alignItems:'center'}} className="follow mt-4">
                                                     <h4 className="text-dark mb-3">Siga a gente:</h4>
                                                     <ul className="follow-icon list-inline mt-32 mb-0">
-                                                        <li className="list-inline-item f-15"><Link to="#"
-                                                            className="social-icon text-muted me-1"><i className="mdi mdi-facebook"></i></Link>
+                                                        <li className="list-inline-item f-15"><a href='#'
+                                                            className="social-icon text-muted me-1"><i className="mdi mdi-facebook"></i></a>
                                                         </li>
                                                         <li className="list-inline-item f-15"><a target='_blank' href="https://www.instagram.com/leadqualify/"
                                                             className="social-icon text-muted me-1"><i className="mdi mdi-instagram"></i></a>
                                                         </li>
 
-                                                        <li className="list-inline-item f-15"><Link to="#"
-                                                            className="social-icon text-muted me-1"><i className="mdi mdi-whatsapp"></i></Link>
+                                                        <li className="list-inline-item f-15"><a target='blank' href="https://wa.me/55119194424759?text=Desejo+saber+mais+sobre+sites"
+                                                            className="social-icon text-muted me-1"><i className="mdi mdi-whatsapp"></i></a>
                                                         </li>
                                                     </ul>
                                                 </div>

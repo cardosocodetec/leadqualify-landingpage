@@ -72,7 +72,7 @@ export default class Services extends Component {
                                                 <h5 className="fw-normal mb-3"><a href='whats' className="text-dark">{services.title}</a></h5>
                                             </div>
                                             <p className="text-muted mb-3 f-14">{services.description}</p>
-                                            <p className="mb-0 text-uppercase f-13"><a href='whats' className="text-primary">Saiba mais<i
+                                            <p className="mb-0 text-uppercase f-13"><a target='_blank' href="https://wa.me/55119194424759?text=Desejo+saber+mais+sobre+sites" className="text-primary">Saiba mais<i
                                                 className="mdi mdi-arrow-right ms-2"></i></a></p>
                                         </div>
                                     </div>

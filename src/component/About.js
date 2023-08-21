@@ -59,7 +59,7 @@ export default class About extends Component {
                                     <p className={this.props.isPrimary ? "text-white-50 f-15" : "text-muted f-15"}>Maximize o potencial do seu pequeno negócio com nossas soluções de alta performance. Estratégias personalizadas impulsionam visibilidade, conversões e lucratividade, garantindo resultados tangíveis. Seja parceiro na busca pela excelência e destaque no mercado com nossas soluções acessíveis e eficazes.</p>
                                     <div className="about-by">
                                     <div className="mt-5">
-                                    <a target='_blank' href='whats' type="submit" className="btn btn-custom">Falar agora</a>
+                                    <a target='_blank' href="https://wa.me/55119194424759?text=Desejo+saber+mais+sobre+sites" type="submit" className="btn btn-custom">Falar agora</a>
                                             </div>
                                     </div>
                                 </div>

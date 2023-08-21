@@ -20,7 +20,7 @@ export default class Section extends Component {
                                             </h1>
                                             <p className="text-white-70 mt-4 f-15 mb-0">Transforme visitantes em clientes. Design envolvente, conteúdo persuasivo e experiência única para impulsionar o crescimento do seu negócio. Aumente sua taxa de conversão hoje mesmo!</p>
                                             <div className="mt-5">
-                                                <a target='_blank' href='whats' type="submit" className="btn btn-custom">Falar agora</a>
+                                                <a target='_blank' href="https://wa.me/55119194424759?text=Desejo+saber+mais+sobre+sites" type="submit" className="btn btn-custom">Falar agora</a>
                                             </div>
                                         </div>
                                     </Col>
